@@ -1,15 +1,4 @@
 body {
     background-color: beige;
-}
-
-h1{
-background-color: pink; color: red;
-}
-
-ol{
-    color: tomato;
-}
-
-a {
-    background-color: green; color: white;
+    background-image: url(../css/imagene/paisaje\ fondo.jpg);
 }
