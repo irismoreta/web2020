@@ -1,21 +1,5 @@
 body {
-    background-color:paleturquoise
+    background-color: bisque;
+    background-image: url(../imagenes/caida-flores-tdh26p.jpg);
     
-    
-    
-    
-    ;
-}
-
-h1{
-background-color: pink;color: red;
-}
-
-a{
-    background-color: green;color: white;
-
-}
-
-ol{
-    color: tomato;
 }
