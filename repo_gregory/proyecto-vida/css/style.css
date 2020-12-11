@@ -1,4 +1,6 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css");
+
 body {
     background-color: beige;
-    background-image: url(../css/imagene/paisaje\ fondo.jpg);
+    background-image: url(../css/imagene/fondo\ 21.jpg);
 }
